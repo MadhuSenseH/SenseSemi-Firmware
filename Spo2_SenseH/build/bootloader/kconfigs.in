@@ -1,0 +1,5 @@
+source "/home/madhusudhan/Desktop/esp-idf-v4.1.2/esp-idf-v4.1/esp-idf-v4.1/components/efuse/Kconfig"
+source "/home/madhusudhan/Desktop/esp-idf-v4.1.2/esp-idf-v4.1/esp-idf-v4.1/components/esp32/Kconfig"
+source "/home/madhusudhan/Desktop/esp-idf-v4.1.2/esp-idf-v4.1/esp-idf-v4.1/components/esp_common/Kconfig"
+source "/home/madhusudhan/Desktop/esp-idf-v4.1.2/esp-idf-v4.1/esp-idf-v4.1/components/log/Kconfig"
+source "/home/madhusudhan/Desktop/esp-idf-v4.1.2/esp-idf-v4.1/esp-idf-v4.1/components/spi_flash/Kconfig"

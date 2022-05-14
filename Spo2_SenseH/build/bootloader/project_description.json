@@ -1,0 +1,20 @@
+{
+    "project_name":       "bootloader",
+    "project_path":       "/home/madhusudhan/Desktop/esp-idf-v4.1.2/esp-idf-v4.1/esp-idf-v4.1/components/bootloader/subproject",
+    "build_dir":          "/home/madhusudhan/esp_work/Spo2_SenseH/build/bootloader",
+    "config_file":        "/home/madhusudhan/esp_work/Spo2_SenseH/sdkconfig",
+    "config_defaults":    "",
+    "app_elf":            "bootloader.elf",
+    "app_bin":            "bootloader.bin",
+    "git_revision":       "v4.1-dirty",
+    "target":             "esp32",
+    "phy_data_partition": "",
+    "monitor_baud" :      "115200",
+    "monitor_toolprefix": "xtensa-esp32-elf-",
+    "config_environment" : {
+        "COMPONENT_KCONFIGS" : "/home/madhusudhan/Desktop/esp-idf-v4.1.2/esp-idf-v4.1/esp-idf-v4.1/components/efuse/Kconfig;/home/madhusudhan/Desktop/esp-idf-v4.1.2/esp-idf-v4.1/esp-idf-v4.1/components/esp32/Kconfig;/home/madhusudhan/Desktop/esp-idf-v4.1.2/esp-idf-v4.1/esp-idf-v4.1/components/esp_common/Kconfig;/home/madhusudhan/Desktop/esp-idf-v4.1.2/esp-idf-v4.1/esp-idf-v4.1/components/log/Kconfig;/home/madhusudhan/Desktop/esp-idf-v4.1.2/esp-idf-v4.1/esp-idf-v4.1/components/spi_flash/Kconfig",
+        "COMPONENT_KCONFIGS_PROJBUILD" : "/home/madhusudhan/Desktop/esp-idf-v4.1.2/esp-idf-v4.1/esp-idf-v4.1/components/bootloader/Kconfig.projbuild;/home/madhusudhan/Desktop/esp-idf-v4.1.2/esp-idf-v4.1/esp-idf-v4.1/components/esptool_py/Kconfig.projbuild;/home/madhusudhan/Desktop/esp-idf-v4.1.2/esp-idf-v4.1/esp-idf-v4.1/components/partition_table/Kconfig.projbuild"
+    },
+    "build_components" : [ "bootloader", "bootloader_support", "efuse", "esp32", "esp_common", "esp_rom", "esptool_py", "log", "main", "micro-ecc", "partition_table", "soc", "spi_flash", "xtensa", "" ],
+    "build_component_paths" : [ "/home/madhusudhan/Desktop/esp-idf-v4.1.2/esp-idf-v4.1/esp-idf-v4.1/components/bootloader", "/home/madhusudhan/Desktop/esp-idf-v4.1.2/esp-idf-v4.1/esp-idf-v4.1/components/bootloader_support", "/home/madhusudhan/Desktop/esp-idf-v4.1.2/esp-idf-v4.1/esp-idf-v4.1/components/efuse", "/home/madhusudhan/Desktop/esp-idf-v4.1.2/esp-idf-v4.1/esp-idf-v4.1/components/esp32", "/home/madhusudhan/Desktop/esp-idf-v4.1.2/esp-idf-v4.1/esp-idf-v4.1/components/esp_common", "/home/madhusudhan/Desktop/esp-idf-v4.1.2/esp-idf-v4.1/esp-idf-v4.1/components/esp_rom", "/home/madhusudhan/Desktop/esp-idf-v4.1.2/esp-idf-v4.1/esp-idf-v4.1/components/esptool_py", "/home/madhusudhan/Desktop/esp-idf-v4.1.2/esp-idf-v4.1/esp-idf-v4.1/components/log", "/home/madhusudhan/Desktop/esp-idf-v4.1.2/esp-idf-v4.1/esp-idf-v4.1/components/bootloader/subproject/main", "/home/madhusudhan/Desktop/esp-idf-v4.1.2/esp-idf-v4.1/esp-idf-v4.1/components/bootloader/subproject/components/micro-ecc", "/home/madhusudhan/Desktop/esp-idf-v4.1.2/esp-idf-v4.1/esp-idf-v4.1/components/partition_table", "/home/madhusudhan/Desktop/esp-idf-v4.1.2/esp-idf-v4.1/esp-idf-v4.1/components/soc", "/home/madhusudhan/Desktop/esp-idf-v4.1.2/esp-idf-v4.1/esp-idf-v4.1/components/spi_flash", "/home/madhusudhan/Desktop/esp-idf-v4.1.2/esp-idf-v4.1/esp-idf-v4.1/components/xtensa", "" ]
+}

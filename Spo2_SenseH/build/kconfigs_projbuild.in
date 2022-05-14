@@ -1,0 +1,5 @@
+source "/home/madhusudhan/Desktop/esp-idf-v4.1.2/esp-idf-v4.1/esp-idf-v4.1/components/app_update/Kconfig.projbuild"
+source "/home/madhusudhan/Desktop/esp-idf-v4.1.2/esp-idf-v4.1/esp-idf-v4.1/components/bootloader/Kconfig.projbuild"
+source "/home/madhusudhan/Desktop/esp-idf-v4.1.2/esp-idf-v4.1/esp-idf-v4.1/components/esptool_py/Kconfig.projbuild"
+source "/home/madhusudhan/Desktop/esp-idf-v4.1.2/esp-idf-v4.1/esp-idf-v4.1/components/partition_table/Kconfig.projbuild"
+source "/home/madhusudhan/esp_work/Spo2_SenseH/main/Kconfig.projbuild"

@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/madhusudhan/esp_work/Spo2_SenseH/build/CMakeFiles/bootloader
+/home/madhusudhan/esp_work/Spo2_SenseH/build/CMakeFiles/bootloader.rule
+/home/madhusudhan/esp_work/Spo2_SenseH/build/CMakeFiles/bootloader-complete.rule
+/home/madhusudhan/esp_work/Spo2_SenseH/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/madhusudhan/esp_work/Spo2_SenseH/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/madhusudhan/esp_work/Spo2_SenseH/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/madhusudhan/esp_work/Spo2_SenseH/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
+/home/madhusudhan/esp_work/Spo2_SenseH/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/madhusudhan/esp_work/Spo2_SenseH/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/madhusudhan/esp_work/Spo2_SenseH/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
